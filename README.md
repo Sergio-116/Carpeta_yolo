@@ -176,3 +176,8 @@ python scripts/detect.py --weights runs/detect/perifericos_yolo/weights/best_ncn
 - Mezcla imagenes con uno y varios objetos.
 - Mantén `val` separado de `train`; no repitas las mismas fotos.
 - Para Raspberry Pi empieza con `yolo11n.pt`, `imgsz 416` o `imgsz 320` si va lento.
+
+## integrantes
+Sergio Esteban Quintana Mesa
+David Santiago Prada Briceño
+Johann Andres Paez Garzon
