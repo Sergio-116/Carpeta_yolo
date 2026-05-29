@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+runs/
+models/*.pt
+models/*.onnx
+models/*_ncnn_model/
+dataset/images/**/*.jpg
+dataset/images/**/*.jpeg
+dataset/images/**/*.png
+dataset/labels/**/*.txt
+!dataset/images/train/.gitkeep
+!dataset/images/val/.gitkeep
+!dataset/labels/train/.gitkeep
+!dataset/labels/val/.gitkeep

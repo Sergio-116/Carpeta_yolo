@@ -1,0 +1,15 @@
+path: C:/Users/ASUS/Documents/Codex/yolo-perifericos-raspberry/dataset
+train: images/train
+val: images/val
+
+names:
+  0: teclado
+  1: mouse
+  2: monitor
+  3: impresora
+  4: parlantes
+  5: webcam
+  6: microfono
+  7: audifonos
+  8: memoria_usb
+  9: router
